@@ -1,0 +1,27 @@
+Please ensure that all traits generate correctly, what I mean by this is the layering. 
+For the most part the layers are self explanatory but I will give a list here.
+Please ensure you are reading the name of the image, 
+it includes the rarity according to the Traits Documentation of NatCats.
+There are some abbreviations, if you need help DM me @fkedupart on discord.
+
+
+Layers should go in this order (Top to bottom):
+-Pattern set 420
+-Pattern set contains 8s
+-Pattern set contains 9s
+-Pattern set contains 0s
+-Pattern set contains 1s
+-Pattern set contains perfect square
+-Pattern set is multiple
+-Pattern set is multiple of 11
+-Pattern set power of 7
+-Pattern set Fibonacci
+-Pattern Set Core
+-Mouth
+-Digit 5 Nose
+-Digit 6 Spots
+-Digit 1 Head
+-Digit 2 Body/Tail
+-Digit 3 Left Ear
+-Digit 4 Right Ear
+-Background
